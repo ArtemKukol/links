@@ -1,0 +1,14 @@
+body {
+    padding: 20px;
+    font: 18px/1.5 sans-serif; 
+
+    
+}
+
+.header {
+   color: rgb(148, 145, 143);
+}
+
+a {
+   text-decoration: none;
+}
