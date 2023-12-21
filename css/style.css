@@ -34,12 +34,6 @@ a {
 	color: var(--var-body-fc);
 }
 
-.content {
-   display: flex;
-   justify-content: left;
-   
-   
-}
 
 
 .tho-column {
